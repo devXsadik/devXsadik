@@ -1,83 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Hanjala%20Habib%20Sadik&fontSize=45&fontColor=88C0D0" width="100%" alt="Header" />
+<p align="center">
+  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=200&section=header&text=Hanjala%20Habib%20Sadik&fontSize=50&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=80&speed=50&deleteSpeed=42&cursor=true&cursorChar=%E2%96%8C&cursorColor=60a5fa&repeat=true&color=1d4ed8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%26+Node.js+Builder;System+Architecture;CSE+Undergrad&v=4" />
+</p>
+
+<!-- The Profile views and followers are commented out in their profile, but you can uncomment this if you want them! -->
+<!-- <p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sadikworkbd5622&base=1000&color=1d4ed8&style=for-the-badge" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/sadikworkbd5622?style=for-the-badge&color=334155" />
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/sadikworkbd5622" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" height="34" src="https://img.shields.io/static/v1?label=&message=GitHub&color=121011&logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" height="34" src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:sadikworkbd5622@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" height="34" src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE" target="_blank" rel="noopener noreferrer">
+    <img alt="Facebook" height="34" src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 <br/>
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="25%" align="center">
-      <!-- This automatically pulls your exact GitHub profile picture! -->
-      <img src="https://github.com/sadikworkbd5622.png" width="160" alt="Hanjala Habib Sadik" style="border-radius: 10px;" />
-    </td>
-    <td width="75%">
-      <h2 style="margin: 0;">Full-Stack Software Engineer</h2>
-      <p style="margin: 5px 0;"><b>📍 Bangladesh | 🎓 CSE Undergraduate</b></p>
-      <p>I design and build scalable, distributed systems and highly polished web applications. My focus is on writing clean, maintainable code and solving complex architectural problems.</p>
-      <p>
-        <a href="mailto:sadikworkbd5622@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://github.com/sadikworkbd5622"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-      </p>
-      <img src="https://komarev.com/ghpvc/?username=sadikworkbd5622&style=flat-square&color=88C0D0&label=PROFILE+VIEWS" alt="Visitor Badge" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏛️ Core Competencies
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b>🌐 Frontend Architecture</b><br>
-      Building responsive, high-performance UIs using <b>React, Next.js, and TypeScript</b>. Focusing on Server Components and modern state management.
-    </td>
-    <td width="33%" valign="top">
-      <b>⚙️ Backend Engineering</b><br>
-      Developing robust REST & GraphQL APIs with <b>Node.js & Express</b>. Expert in relational (MySQL) and NoSQL (MongoDB) databases.
-    </td>
-    <td width="33%" valign="top">
-      <b>☁️ Cloud & DevOps</b><br>
-      Containerizing applications with <b>Docker</b> and deploying scalable infrastructure on <b>AWS & GCP</b> using Linux workflows.
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Technology Stack
-
-*Below is a comprehensive list of the tools and technologies I use daily to build software:*
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend Icons" /><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Icons" /><br><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,docker,aws,gcp,git,linux" alt="Tools Icons" />
+  <img alt="Tech stack row 1" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&perline=9" />
 </p>
 
----
+<p align="center">
+  <img alt="Tech stack row 2" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,java,c,cpp,docker&perline=9" />
+</p>
 
-### 📈 Open Source Analytics
+<p align="center">
+  <img alt="Tech stack row 3" src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel,git,github,vscode,npm,linux,postman&perline=10" />
+</p>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&theme=nord&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-  
-  <br><br>
+<br/>
 
-  <img src="https://streak-stats.demolab.com?user=sadikworkbd5622&theme=nord&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sadikworkbd5622&theme=nord&no-frame=true&no-bg=true&margin-w=15" width="48%" alt="GitHub Trophies" />
-  </a>
+<p align="center">
+  <img alt="React Ecosystem" src="https://img.shields.io/badge/React%20Ecosystem-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="REST API Design" src="https://img.shields.io/badge/REST%20API%20Design-0f766e?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Cloud Architecture" src="https://img.shields.io/badge/Cloud%20Architecture-1d4ed8?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img alt="System Design" src="https://img.shields.io/badge/System%20Design-c0392b?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img alt="Full Stack Architecture" src="https://img.shields.io/badge/Full%20Stack%20Architecture-334155?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-</div>
+<br/>
 
-<br>
+<p align="center">
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sadikworkbd5622&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadikworkbd5622&bg_color=0D1117&color=88C0D0&line=81A1C1&point=ECEFF4&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
+<br/>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=20&section=footer" width="100%" alt="Footer" />
+<p align="center">
+  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sadikworkbd5622&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
+</p>
