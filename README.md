@@ -75,10 +75,10 @@ I am a passionate **Computer Science & Engineering undergraduate** specializing 
 
 <p align="center">
   <a href="https://github.com/sadikworkbd5622">
-    <img src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&hide_border=true" alt="Hanjala's GitHub Stats" width="48%" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&hide_border=true" alt="Hanjala's GitHub Stats" />
   </a>
   <a href="https://github.com/sadikworkbd5622">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&hide_border=true" alt="Top Languages" width="48%" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
