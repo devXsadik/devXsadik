@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Hanjala%20Habib%20Sadik&fontSize=50&fontColor=22d3ee&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=80&speed=50&deleteSpeed=42&cursor=true&cursorChar=%E2%96%8C&cursorColor=22d3ee&repeat=true&color=22d3ee&center=true&vCenter=true&width=950&lines=React+%26+Node.js+Specialist;JavaScript+Enthusiast;System+Architecture;CSE+Undergrad&v=4" />
 </p>
 
 <p align="center">
