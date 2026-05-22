@@ -1,90 +1,107 @@
 <div align="center">
 
-# Hi there, I'm Hanjala Habib Sadik 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=6C3CE0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSE+Undergraduate;Tech+Enthusiast" alt="Typing SVG" />
-
-*Building modern web applications with clean code and thoughtful architecture.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hanjala%20Habib%20Sadik&fontSize=60&fontAlignY=35&animation=twinkling&desc=Crafting%20digital%20experiences%20with%20code.&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
 <p align="center">
-  <a href="https://github.com/sadikworkbd5622">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6C3CE0" alt="GitHub" />
-  </a>
-  <a href="mailto:sadikworkbd5622@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6C3CE0" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6C3CE0" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE">
-    <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=6C3CE0" alt="Facebook" />
-  </a>
+  <img src="https://profile-counter.glitch.me/sadikworkbd5622/count.svg" alt="Visitor Count" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://github.com/sadikworkbd5622"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sadikworkbd5622@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_PROFILE"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
-
-I'm a full-stack developer based in **Bangladesh**, currently pursuing my **CSE undergraduate** degree. I thrive on bringing ideas to life through code, focusing on building scalable web applications — from highly polished, responsive frontends to robust, secure backends.
-
-- 🔭 I’m currently diving deep into **Advanced React patterns & Server Components**
-- 🌱 I’m currently learning about **System Design & Distributed Architecture**
-- ☁️ Exploring the world of **Cloud-native deployment (AWS/GCP)**
-- 💬 Ask me about **React, Node.js, and Modern Web Development**
-- 📫 How to reach me: **sadikworkbd5622@gmail.com**
+### 🏆 GitHub Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sadikworkbd5622&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Developer Identity
 
-<div align="center">
-
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,bootstrap,vite,html,css" alt="Frontend Icons" />
-
-<br><br>
-
-**Backend & Database**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Icons" />
-
-<br><br>
-
-**Languages & Tools**<br>
-<img src="https://skillicons.dev/icons?i=js,java,c,cpp,docker,aws,gcp,git,linux,vscode" alt="Tools Icons" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <h4 align="center">👨‍💻 About Me</h4>
+      <ul>
+        <li>🌍 Based in <b>Bangladesh</b> | CSE Undergraduate</li>
+        <li>💡 Passionate about <b>System Architecture</b> and <b>Full-Stack Engineering</b>.</li>
+        <li>🔭 Currently hacking on <b>React Server Components & Next.js</b>.</li>
+        <li>🌱 Learning the ins-and-outs of <b>Cloud-native deployments (AWS/GCP)</b>.</li>
+        <li>🎯 Goal: Build systems that scale to millions of users.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <h4 align="center">✨ Daily Quote</h4>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=synthwave" alt="Quote" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Analytics
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css,vite" alt="Frontend" /><br><br>
+  <b>Backend & Database</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" /><br><br>
+  <b>Languages, Cloud & DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,docker,aws,gcp,git,linux,vscode" alt="Tools" />
+</p>
+
+---
+
+### 📁 Featured Projects
+*(Click on the projects to expand!)*
+
+<details>
+  <summary><b>✨ Project Title 1 (e.g. E-Commerce Platform)</b></summary>
+  <blockquote>
+    A brief description of your amazing project and what it does. <br>
+    - Key Feature 1<br>
+    - Key Feature 2<br>
+    🔗 <a href="#">Live Demo</a> | 🔗 <a href="#">Source Code</a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🚀 Project Title 2 (e.g. Chat Application)</b></summary>
+  <blockquote>
+    Another brief description of what you built here. <br>
+    - Key Feature 1 <br>
+    - Key Feature 2 <br>
+    🔗 <a href="#">Live Demo</a> | 🔗 <a href="#">Source Code</a>
+  </blockquote>
+</details>
+
+---
+
+### 📈 Detailed Analytics
 
 <div align="center">
 
-  <a href="https://github.com/sadikworkbd5622">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6C3CE0&icon_color=6C3CE0&text_color=8b93a8&ring_color=6C3CE0" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/sadikworkbd5622">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6C3CE0&text_color=8b93a8" alt="Top Languages" />
-  </a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&theme=synthwave&hide_border=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&theme=synthwave&hide_border=true" width="48%" alt="Languages" />
   <br><br>
-
-  <a href="https://github.com/sadikworkbd5622">
-    <img src="https://streak-stats.demolab.com?user=sadikworkbd5622&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6C3CE0&ring=6C3CE0&fire=6C3CE0&currStreakLabel=6C3CE0&sideLabels=8b93a8&currStreakNum=6C3CE0&sideNums=6C3CE0&dates=8b93a8" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/sadikworkbd5622">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadikworkbd5622&bg_color=0d1117&color=6C3CE0&line=6C3CE0&point=6C3CE0&area=true&area_color=6C3CE0&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="100%" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=sadikworkbd5622&theme=synthwave&hide_border=true" width="48%" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadikworkbd5622&bg_color=2b213a&color=e2a528&line=e2a528&point=e2a528&area=true&hide_border=true" width="48%" alt="Activity" />
 
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3CE0&height=100&section=footer" width="100%" alt="Footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" width="100%" alt="Footer" />
+</div>
