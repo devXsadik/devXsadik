@@ -61,12 +61,13 @@ I am a passionate **Computer Science & Engineering undergraduate** specializing 
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Featured Projects & Portfolio
 
-| Project Name | Description | Tech Stack | Live Links |
+| Project / Platform | Description | Tech Stack | Live Deployment |
 | :--- | :--- | :--- | :--- |
-| **Project One** | A brief 1-2 sentence compelling description of what this cool app does. | `Next.js` `Node.js` `MongoDB` | [Code](https://github.com) / [Demo](https://github.com) |
-| **Project Two** | A brief 1-2 sentence compelling description of what this cool app does. | `React` `Express` `AWS` | [Code](https://github.com) / [Demo](https://github.com) |
+| **💼 Personal Portfolio** | My professional developer site featuring experience, skill frameworks, and web showcases. | `Next.js` `Tailwind CSS` `Vercel` | [Visit Live Site 🚀](https://hanjala-habib-sadik.vercel.app) |
+| **🏏 CricketHub BD** | A comprehensive dynamic web application tracking services, matches, and database features for cricket operations. | `React` `Node.js` `MongoDB` | [Visit Live Site 🚀](https://crickethub-bd.vercel.app) |
+| **🍽️ Messpro** | A smart university hostel/mess meal management web system streamlining daily calculations, dining records, and tracking. | `React` `Tailwind` `Firebase` | [Visit Live Site 🚀](https://meal-management-3a66d.web.app/) |
 
 ---
 
