@@ -74,13 +74,6 @@ I am a passionate **Computer Science & Engineering undergraduate** specializing 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&hide_border=true&custom_title=My_GitHub_Stats" alt="Hanjala's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&hide_border=true&custom_title=Top_Languages" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
   <img width="100%" alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sadikworkbd5622&theme=github-dark&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" />
 </div>
 
