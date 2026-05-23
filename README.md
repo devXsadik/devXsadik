@@ -10,13 +10,13 @@
   <a href="https://github.com/sadikworkbd5622" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub" height="34" src="https://img.shields.io/static/v1?label=&message=GitHub&color=0f172a&logo=github&logoColor=22d3ee&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/hanjala-habib-sadik" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" height="34" src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0f172a&logo=linkedin&logoColor=22d3ee&style=for-the-badge" />
   </a>
-  <a href="mailto:sadikworkbd5622@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:Sadik.work.bd@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Gmail" height="34" src="https://img.shields.io/static/v1?label=&message=Gmail&color=0f172a&logo=gmail&logoColor=22d3ee&style=for-the-badge" />
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/hanjalahabibsadik22" target="_blank" rel="noopener noreferrer">
     <img alt="Facebook" height="34" src="https://img.shields.io/static/v1?label=&message=Facebook&color=0f172a&logo=facebook&logoColor=22d3ee&style=for-the-badge" />
   </a>
 </p>
@@ -27,6 +27,7 @@
 
 I am a passionate **Computer Science & Engineering undergraduate** specializing in building highly performant, scalable, and visually stunning web applications. With a strong foundation in **System Architecture** and **Full-Stack Development**, I thrive on turning complex problems into elegant code.
 
+* **📍 Location:** Dhaka, Bangladesh
 * **🎓 Education:** CSE Undergrad
 * **💡 Core Focus:** React Ecosystem, Robust Node.js Architectures, & Cloud Deployments
 * **🌱 Currently Learning:** Advanced System Design, Microservices, and Kubernetes
