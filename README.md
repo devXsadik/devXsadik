@@ -1,22 +1,23 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=180&section=header&text=&fontSize=0" />
 
 <div align="center">
 
 <!-- Animated Avatar -->
-<img src="./assets/hero-banner.svg" width="220" alt="Sadik" />
+<img src="./avatar.svg" width="220" alt="Sadik" />
 
 <br/><br/>
 
 <!-- Name with typing effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hanjala+Habib+Sadik;Full-Stack+Developer;Digital+Craftsman+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-```javascript
-const sadik = {
+<table align="center"><tr><td>
+<pre><code>const sadik = {
     location:  "📍 Bangladesh",
     education: "🎓 CSE Undergrad",
     focus:     "🔭 AI-Powered Applications",
     stack:     "⚡ React · Node.js · TypeScript · Python",
-};
-```
+};</code></pre>
+</td></tr></table>
 
 <br/>
 
@@ -166,11 +167,11 @@ const sadik = {
 
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════╗
- ║  Thanks for visiting! Let's build something great.  ║
- ╚══════════════════════════════════════════════════════╝
-```
+<table align="center"><tr><td>
+<pre><code> ╔══════════════════════════════════════════════════════╗
+ ║  Thanks for visiting! Let's build something great.   ║
+ ╚══════════════════════════════════════════════════════╝</code></pre>
+</td></tr></table>
 
 </div>
 
