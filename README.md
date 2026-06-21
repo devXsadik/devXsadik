@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Avatar -->
-<img src="./avatar.svg" width="220" alt="Sadik" />
+<img src="./assets/hero-banner.svg" width="220" alt="Sadik" />
 
 <br/><br/>
 
