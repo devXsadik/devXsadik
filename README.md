@@ -3,14 +3,14 @@
 <!-- Animated Hero Banner -->
 <img src="https://raw.githubusercontent.com/sadikworkbd5622/sadikworkbd5622/main/assets/hero-banner.svg" width="100%" alt="Hero Banner" />
 
-<table align="center"><tr><td>
-<pre><code>const sadik = {
+```javascript
+const sadik = {
     location:  "📍 Bangladesh",
     education: "🎓 CSE Undergrad",
     focus:     "🔭 AI-Powered Applications",
     stack:     "⚡ React · Node.js · TypeScript · Python",
-};</code></pre>
-</td></tr></table>
+};
+```
 
 <br/>
 
@@ -144,11 +144,11 @@
 
 <div align="center">
 
-<table align="center"><tr><td>
-<pre><code> ╔══════════════════════════════════════════════════════╗
+```text
+ ╔══════════════════════════════════════════════════════╗
  ║  Thanks for visiting! Let's build something great.   ║
- ╚══════════════════════════════════════════════════════╝</code></pre>
-</td></tr></table>
+ ╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
