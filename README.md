@@ -1,13 +1,7 @@
-
 <div align="center">
 
-<!-- Animated Avatar -->
-<img src="./avatar.svg" width="220" alt="Sadik" />
-
-<br/><br/>
-
-<!-- Name with typing effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hanjala+Habib+Sadik;Full-Stack+Developer;Digital+Craftsman+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Animated Hero Banner -->
+<img src="https://raw.githubusercontent.com/sadikworkbd5622/sadikworkbd5622/main/assets/hero-banner.svg" width="100%" alt="Hero Banner" />
 
 <table align="center"><tr><td>
 <pre><code>const sadik = {
@@ -131,22 +125,6 @@
 
 <br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-## 🏆 Achievements
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sadikworkbd5622&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
-<br/>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
