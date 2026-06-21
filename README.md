@@ -3,24 +3,21 @@
 <!-- Animated Hero Banner -->
 <img src="https://raw.githubusercontent.com/sadikworkbd5622/sadikworkbd5622/main/assets/hero-banner.svg" width="100%" alt="Hero Banner" />
 
-```javascript
-const sadik = {
-    location:  "📍 Bangladesh",
-    education: "🎓 CSE Undergrad",
-    focus:     "🔭 AI-Powered Applications",
-    stack:     "⚡ React · Node.js · TypeScript · Python",
-};
-```
+<br/>
+
+<!-- Cyberpunk Terminal Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=~%2F%3E+Initiating+system+boot...;~%2F%3E+Compiling+clean+code...;~%2F%3E+Deploying+scalable+architecture...;~%2F%3E+Exploring+new+technologies..." alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<!-- Neon Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C3CE0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sadikworkbd5622&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=sadikworkbd5622&style=for-the-badge&color=6C3CE0&label=PROFILE+VIEWS" />
 
 </div>
 
