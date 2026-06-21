@@ -1,82 +1,99 @@
-# Hi there, I'm Sadik 👋
+<![CDATA[<div align="center">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Open-Source+Enthusiast;Building+clean%2C+scalable+solutions" alt="Typing animation" />
-</div>
+<!-- Animated Profile Avatar -->
+<img src="./avatar.svg" width="260" alt="Hanjala Habib Sadik" />
 
----
+<br/>
 
-## 🚀 About Me
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Hanjala+Habib+Sadik;Full-Stack+Developer+%7C+CSE+Undergrad" alt="Typing SVG" /></a>
 
-I’m a passionate **Full-Stack Developer** focused on building reliable, user-friendly, and scalable web applications.  
-I enjoy turning ideas into production-ready products with clean architecture and maintainable code.
+<p>
+A passionate <b>Full-Stack Developer</b> focused on building clean, modern, and scalable web applications.<br/>
+I love turning complex problems into simple, beautiful solutions.
+</p>
 
-- 🔭 Currently working on modern web applications
-- 🌱 Continuously learning system design, cloud, and DevOps
-- 🤝 Open to collaboration on impactful open-source projects
-- 💬 Ask me about JavaScript, TypeScript, React, Node.js, and APIs
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Views](https://komarev.com/ghpvc/?username=sadikworkbd5622&style=flat-square&color=58A6FF)](https://github.com/sadikworkbd5622)
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+- 🎓 **CSE Undergrad** & self-taught developer from **Bangladesh**
+- 💻 Working mainly with **React, Node.js & TypeScript**
+- 🔭 Currently building **AI-powered applications**
+- 🌱 Exploring **System Design, Cloud Architecture & DevOps**
+- 🤝 Open to collaborating on impactful open-source projects
+- 🎯 **2025–2026 Goals:** Master Cloud Native, Kubernetes & AI/ML
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔹 [AI Surveillance System](https://github.com/sadikworkbd5622/ai-sss)**
+> Real-time threat detection with multi-person tracking
+
+`Python` `AI/ML` `Computer Vision`
+
+</td>
+<td width="50%">
+
+**🔹 [Project Name](https://github.com/sadikworkbd5622/project-2)**
+> Brief description of what it solves
+
+`React` `Node.js` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sadikworkbd5622&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=sadikworkbd5622&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadikworkbd5622&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" />
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-- 🔹 **Project One** — Short one-line description of what it solves
-- 🔹 **Project Two** — Short one-line description of what it solves
-- 🔹 **Project Three** — Short one-line description of what it solves
-
-> Replace these with your best repositories for maximum impact.
-
----
-
-## 🤝 Connect With Me
-
-<div align="left">
-
-- 📫 Email: **your.email@example.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-username**
-- 🌐 Portfolio: **https://your-portfolio.com**
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadikworkbd5622&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadikworkbd5622&style=for-the-badge&color=2EA043" alt="Profile views" />
-</div>
-
-<div align="center">
-
-### Thanks for visiting my profile! ⭐
-
-</div>
+  <i>⭐ Feel free to explore my repos and reach out — let's build something amazing together!</i>
+</div>]]>
