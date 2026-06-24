@@ -34,7 +34,7 @@
   - 🌱 Exploring System Design, Cloud & DevOps
   - 🤝 Open to collaborating with other developers
   - 🎯 2025-2026 Goals: Cloud Native, Kubernetes, AI/ML
-  - ⚡ Fun fact: I enjoy reading docs more than tutorial
+  - ⚡ Fun fact: I enjoy reading docs more than tutorials
 ```
 
 <br/>
