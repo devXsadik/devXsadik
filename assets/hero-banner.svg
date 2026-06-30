@@ -179,7 +179,7 @@
 
   <!-- TERMINAL PROMPT -->
   <text x="600" y="340" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#00d4ff" opacity="0.35">
-    ~/sadikworkbd5622 $
+    ~/devXsadik $
   </text>
   <rect x="667" y="329" width="7" height="13" fill="#00d4ff" opacity="0.4" class="cursor-blink"/>
 
