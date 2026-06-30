@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sadikworkbd5622&style=for-the-badge&color=6C3CE0&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=devXsadik&style=for-the-badge&color=6C3CE0&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -71,13 +71,13 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadikworkbd5622&theme=github_dark" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXsadik&theme=github_dark" width="90%" />
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadikworkbd5622&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadikworkbd5622&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadikworkbd5622&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devXsadik&theme=github_dark" width="32%" />
 
 </div>
 
@@ -94,12 +94,12 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sadikworkbd5622&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikworkbd5622&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img width="55%" src="https://streak-stats.demolab.com?user=sadikworkbd5622&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<img width="55%" src="https://streak-stats.demolab.com?user=devXsadik&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -116,7 +116,7 @@
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadikworkbd5622&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devXsadik&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" />
 
 </div>
 
