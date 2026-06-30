@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Hero Banner -->
-<img src="https://raw.githubusercontent.com/sadikworkbd5622/sadikworkbd5622/main/assets/hero-banner.svg" width="100%" alt="Hero Banner" />
+<img src="https://raw.githubusercontent.com/devXsadik/devXsadik/main/assets/hero-banner.svg" width="100%" alt="Hero Banner" />
 
 <br/>
 
@@ -75,7 +75,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadikworkbd5622&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXsadik&theme=github_dark" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devXsadik&theme=github_dark" width="32%" />
 
