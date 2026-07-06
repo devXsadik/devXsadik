@@ -28,7 +28,7 @@
 
 ```yaml
 🧑‍💻 About Me:
-  - 🎓 CSE Undergrad & self-taught developer
+  - 🎓 CSE Undergrad & self-taught develop
   - 💻 Working mainly with React, Node.js & TypeScript
   - 🔭 Currently building AI-powered surveillance systems
   - 🌱 Exploring System Design, Cloud & DevOps
