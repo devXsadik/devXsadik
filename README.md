@@ -1,147 +1,100 @@
 <div align="center">
 
-<!-- Animated Hero Banner -->
-<img src="https://raw.githubusercontent.com/devXsadik/devXsadik/main/assets/hero-banner.svg" width="100%" alt="Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3CE0,100:0d1117&height=180&section=header&text=Hanjala%20Habib%20Sadik&fontSize=42&fontColor=00D4FF&animation=twinkling" width="100%" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;CS+Undergrad+%40+DIU;React+%7C+Node.js+%7C+TypeScript;Building+scalable+web+solutions" alt="Typing intro" />
 
 <br/>
 
-<!-- Short intro typing effect (static fallback) -->
-<p align="center"><strong style="color:#00D4FF">Hi — I'm devXsadik</strong> · CSE Undergrad · React/Node/TypeScript</p>
-
-<br/><br/>
-
-<!-- Neon Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C3CE0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devXsadik)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://devxsadik.dev)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C3CE0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devXsadik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sadik-portfolio-ten.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devXsadik)
+[![Email](https://img.shields.io/badge/Contact-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/devXsadik)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=devXsadik&style=for-the-badge&color=6C3CE0&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=devXsadik&style=for-the-badge&color=6C3CE0&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<!-- Divider -->
-<hr />
+---
 
-<br/>
-
-```yaml
-🧑‍💻 About Me:
-  - 🎓 CSE Undergrad & self-taught developer
-  - 💻 Working mainly with React, Node.js & TypeScript
-  - 🔭 Currently building AI-powered surveillance systems
-  - 🌱 Exploring System Design, Cloud & DevOps
-  - 🤝 Open to collaborating with other developers
-  - 🎯 2025-2026 Goals: Cloud Native, Kubernetes, AI/ML
-  - ⚡ Fun fact: I enjoy reading docs more than tutorials
-```
-
-<br/>
-
-<!-- Divider -->
-<hr />
-
-<br/>
-
-<div align="center">
-
-## ⚡ Tech Arsenal
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="tech icons" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis&theme=dark" alt="backend icons" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode&theme=dark" alt="devops icons" />
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<hr />
-
-<br/>
-
-<div align="center">
-
-## 📈 Profile Summary
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXsadik&theme=github_dark" width="90%" alt="profile details" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXsadik&theme=github_dark" width="32%" alt="stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" width="32%" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devXsadik&theme=github_dark" width="32%" alt="most commit language" />
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<hr />
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&theme=dark" alt="github stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&theme=dark" alt="top languages" />
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<hr />
-
-<br/>
-
-<div align="center">
-
-## 📉 Contribution Graph
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devXsadik&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" alt="contribution graph" />
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<hr />
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
+### About Me
 
 ```text
- ╔══════════════════════════════════════════════════════╗
- ║  Thanks for visiting! Let's build something great.   ║
- ╚══════════════════════════════════════════════════════╝
+Full-Stack Web Developer from Dhaka, Bangladesh
+CS Undergraduate @ Daffodil International University (DIU)
+2+ years building with MERN, Next.js & Tailwind CSS
 ```
+
+| | |
+|:---|:---|
+| **Currently** | Building AI-powered surveillance systems |
+| **Learning** | System Design, Cloud Native & DevOps |
+| **Focus** | Kubernetes, AI/ML & scalable architectures |
+| **Open to** | Collaborations, internships & freelance work |
+| **Fun fact** | I enjoy reading docs more than tutorials |
+
+---
+
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="Frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis&theme=dark" alt="Backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode&theme=dark" alt="DevOps" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=120&section=footer" alt="footer" />
+---
+
+<div align="center">
+
+### Featured Projects
+
+| Project | Stack | Link |
+|:--------|:------|:-----|
+| **Brain Dump Task Organizer** | TypeScript | [Repo](https://github.com/devXsadik/Brain-Dump-Task-Organizer) |
+| **Ticket Analyzer** | Python | [Live](https://team-binary-diu-ticket-analyzer.vercel.app) · [Repo](https://github.com/devXsadik/TeamBinaryDIU-TicketAnalyzer) |
+| **DataForge Converter** | CSS / Web | [Live](https://dataforge-binary.vercel.app) · [Repo](https://github.com/devXsadik/dataset-file-convertor) |
+| **Portfolio** | JavaScript | [Live](https://sadik-portfolio-ten.vercel.app) · [Repo](https://github.com/devXsadik/sadik-portfolio) |
+
+</div>
+
+---
+
+<div align="center">
+
+### GitHub Analytics
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&theme=react&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXsadik&theme=github_dark" alt="Profile details" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devXsadik&bg_color=0D1117&color=00D4FF&line=6C3CE0&point=FF6B9D&area=true&area_color=6C3CE0&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devXsadik/devXsadik/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
+
+<br/><br/>
+
+```text
+Thanks for visiting — let's build something great together.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
+
+</div>
