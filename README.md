@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3CE0,100:0d1117&height=200&section=header&text=Hanjala%20Habib%20Sadik&fontSize=44&fontColor=00D4FF&animation=twinkling" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;CS+Undergrad+%40+DIU+%C2%B7+Dhaka;React+%7C+Node.js+%7C+TypeScript;Building+scalable+AI-powered+solutions" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;CS+Undergrad+%40+DIU+%C2%B7+Dhaka;MERN+%7C+Next.js+%7C+TypeScript" alt="Typing intro" />
 
 <br/>
 
@@ -39,12 +39,12 @@
 ### 📊 GitHub Metrics
 <sub>Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
 
-<img src="https://metrics.lecoq.io/devXsadik?plugins=base&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FDhaka&config.display=large" width="100%" alt="GitHub metrics overview" />
+<img src="https://metrics.lecoq.io/devXsadik?plugins=base&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FDhaka&config.display=large" width="100%" alt="GitHub metrics" />
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true&title_color=00D4FF&icon_color=6C3CE0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&theme=react&langs_count=8&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true&title_color=00D4FF&icon_color=6C3CE0&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=1800" alt="GitHub stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&theme=react&langs_count=8&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Top languages" />
 
 <br/><br/>
 
