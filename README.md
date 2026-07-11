@@ -43,8 +43,8 @@
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true&title_color=00D4FF&icon_color=6C3CE0&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=1800" alt="GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&theme=react&langs_count=8&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Top languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXsadik&theme=github_dark" alt="GitHub stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" alt="Top languages" />
 
 <br/><br/>
 
