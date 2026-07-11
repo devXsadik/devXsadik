@@ -35,24 +35,28 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-FF6B9D?style=flat-square" alt="Open to" />
 </p>
 
-<table width="100%">
+<div align="center">
+
+<table width="75%">
   <tr>
-    <td width="30%" valign="top">🔭 <strong>Now</strong></td>
-    <td valign="top">Building AI-powered surveillance systems</td>
+    <td width="30%" align="left" valign="top">🔭 <strong>Now</strong></td>
+    <td align="left" valign="top">Building AI-powered surveillance systems</td>
   </tr>
   <tr>
-    <td width="30%" valign="top">🌱 <strong>Learning</strong></td>
-    <td valign="top">System Design · Cloud Native · DevOps</td>
+    <td width="30%" align="left" valign="top">🌱 <strong>Learning</strong></td>
+    <td align="left" valign="top">System Design · Cloud Native · DevOps</td>
   </tr>
   <tr>
-    <td width="30%" valign="top">🎯 <strong>2026 Goals</strong></td>
-    <td valign="top">Kubernetes · AI/ML · Scalable architectures</td>
+    <td width="30%" align="left" valign="top">🎯 <strong>2026 Goals</strong></td>
+    <td align="left" valign="top">Kubernetes · AI/ML · Scalable architectures</td>
   </tr>
   <tr>
-    <td width="30%" valign="top">⚡ <strong>Fun fact</strong></td>
-    <td valign="top">I enjoy reading docs more than tutorials</td>
+    <td width="30%" align="left" valign="top">⚡ <strong>Fun fact</strong></td>
+    <td align="left" valign="top">I enjoy reading docs more than tutorials</td>
   </tr>
 </table>
+
+</div>
 ---
 
 <div align="center">
