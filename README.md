@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6C3CE0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devXsadik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sadik-portfolio-ten.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devXsadik)
-[![Contact](https://img.shields.io/badge/Contact-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/devXsadik)
+[![Email](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadik.work.bd@gmail.com)
 
 <br/>
 
@@ -37,19 +37,18 @@
 <div align="center">
 
 ### 📊 GitHub Metrics
-<sub>Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> · auto-updated daily</sub>
+<sub>Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics.svg" />
-  <img src="./github-metrics.svg" alt="GitHub metrics — profile, languages and habits" width="100%" />
-</picture>
+<img src="https://metrics.lecoq.io/devXsadik?plugins=base&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FDhaka&config.display=large" width="100%" alt="GitHub metrics overview" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics.calendar.svg" />
-  <img src="./github-metrics.calendar.svg" alt="Isometric commit calendar" width="100%" />
-</picture>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true&title_color=00D4FF&icon_color=6C3CE0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&theme=react&langs_count=8&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXsadik&theme=github_dark" alt="Profile details" />
 
 </div>
 
@@ -73,13 +72,6 @@
 
 ### 🚀 Featured Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics.repositories.svg" />
-  <img src="./github-metrics.repositories.svg" alt="Featured repositories" width="100%" />
-</picture>
-
-<br/><br/>
-
 | Project | Stack | Links |
 |:--------|:------|:------|
 | **Brain Dump Task Organizer** | TypeScript | [Repo](https://github.com/devXsadik/Brain-Dump-Task-Organizer) |
@@ -94,13 +86,6 @@
 <div align="center">
 
 ### 📈 Activity & Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics.activity.svg" />
-  <img src="./github-metrics.activity.svg" alt="Recent activity, achievements and code changes" width="100%" />
-</picture>
-
-<br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devXsadik&bg_color=0D1117&color=00D4FF&line=6C3CE0&point=FF6B9D&area=true&area_color=6C3CE0&hide_border=true" alt="Contribution graph" />
 
