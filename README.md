@@ -35,12 +35,28 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-FF6B9D?style=flat-square" alt="Open to" />
 </p>
 
-| | |
-| :--- | :--- |
-| 🔭 **Now** | Building AI-powered surveillance systems |
-| 🌱 **Learning** | System Design · Cloud Native · DevOps |
-| 🎯 **2026 Goals** | Kubernetes · AI/ML · Scalable architectures |
-| ⚡ **Fun fact** | I enjoy reading docs more than tutorials |
+<div align="center">
+
+<table width="75%">
+  <tr>
+    <td width="30%" align="left" valign="top">🔭 <strong>Now</strong></td>
+    <td align="left" valign="top">Building AI-powered surveillance systems</td>
+  </tr>
+  <tr>
+    <td width="30%" align="left" valign="top">🌱 <strong>Learning</strong></td>
+    <td align="left" valign="top">System Design · Cloud Native · DevOps</td>
+  </tr>
+  <tr>
+    <td width="30%" align="left" valign="top">🎯 <strong>2026 Goals</strong></td>
+    <td align="left" valign="top">Kubernetes · AI/ML · Scalable architectures</td>
+  </tr>
+  <tr>
+    <td width="30%" align="left" valign="top">⚡ <strong>Fun fact</strong></td>
+    <td align="left" valign="top">I enjoy reading docs more than tutorials</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -187,4 +203,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3CE0,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
+
 
