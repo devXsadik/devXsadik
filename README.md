@@ -75,17 +75,90 @@
 
 ---
 
-<div align="center">
+---
 
-<h3>🚀 Featured Projects</h3>
+<h3 align="center">🚀 Featured Projects</h3>
 
-| Project | Description | Stack | Links |
-| :-- | :-- | :-- | :-- |
-| **Brain Dump** | AI task organizer from raw notes | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Code](https://github.com/devXsadik/Brain-Dump-Task-Organizer) |
-| **Ticket Analyzer** | ICT Fest hackathon — support ticket AI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [Live](https://team-binary-diu-ticket-analyzer.vercel.app) · [Code](https://github.com/devXsadik/TeamBinaryDIU-TicketAnalyzer) |
-| **DataForge** | Dataset file converter for ML pipelines | ![Web](https://img.shields.io/badge/Web-00D4FF?style=flat-square) | [Live](https://dataforge-binary.vercel.app) · [Code](https://github.com/devXsadik/dataset-file-convertor) |
-| **Portfolio** | Personal developer portfolio | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Live](https://sadik-portfolio-ten.vercel.app) · [Code](https://github.com/devXsadik/sadik-portfolio) |
-| **Taskflow** | Task management web app | ![JS](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) | [Live](https://taskflow-nu-red.vercel.app) · [Code](https://github.com/devXsadik/Taskflow) |
+<p align="center">
+  <sub>Selected work — production apps, hackathon builds & open-source tools</sub>
+</p>
+
+<br/>
+
+<div align="left">
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Brain Dump</h4>
+      <p>AI task organizer that transforms unstructured notes into prioritized, actionable workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/AI-Powered-6C3CE0?style=flat-square" alt="AI" />
+      </p>
+      <p>
+        <a href="https://github.com/devXsadik/Brain-Dump-Task-Organizer"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎫 Ticket Analyzer</h4>
+      <p>ICT Fest hackathon project — AI-powered support ticket classification and insight dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Hackathon-FF6B9D?style=flat-square" alt="Hackathon" />
+        <img src="https://img.shields.io/badge/Team_Binary-DIU-00D4FF?style=flat-square" alt="Team Binary DIU" />
+      </p>
+      <p>
+        <a href="https://team-binary-diu-ticket-analyzer.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live Demo" /></a>
+        <a href="https://github.com/devXsadik/TeamBinaryDIU-TicketAnalyzer"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ DataForge</h4>
+      <p>Dataset file converter for ML pipelines — fast format transforms with a clean web interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/ML_Tools-6C3CE0?style=flat-square" alt="ML Tools" />
+      </p>
+      <p>
+        <a href="https://dataforge-binary.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live Demo" /></a>
+        <a href="https://github.com/devXsadik/dataset-file-convertor"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 Portfolio</h4>
+      <p>Personal developer portfolio showcasing projects, skills, and contact — built for performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <p>
+        <a href="https://sadik-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live Demo" /></a>
+        <a href="https://github.com/devXsadik/sadik-portfolio"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>✅ Taskflow</h4>
+      <p>Lightweight task management app with intuitive UI for tracking daily work and project milestones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Productivity-6C3CE0?style=flat-square" alt="Productivity" />
+      </p>
+      <p>
+        <a href="https://taskflow-nu-red.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Live Demo" /></a>
+        <a href="https://github.com/devXsadik/Taskflow"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -114,4 +187,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3CE0,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
+
 
