@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3CE0,100:0d1117&height=200&section=header&text=Hanjala%20Habib%20Sadik&fontSize=44&fontColor=00D4FF&animation=twinkling" width="100%" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;CS+Undergrad+%40+DIU+%C2%B7+Dhaka;React+%7C+Node.js+%7C+TypeScript;Building+scalable+AI-powered+solutions" alt="Typing intro" />
+<img src="https://raw.githubusercontent.com/devXsadik/devXsadik/main/assets/hero-banner.svg" width="100%" alt="Hero banner" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C3CE0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devXsadik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sadik-portfolio-ten.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devXsadik)
-[![Email](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadik.work.bd@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;CS+Undergrad+%40+DIU;React+%C2%B7+Node.js+%C2%B7+TypeScript;Building+scalable+web+%26+AI+solutions" alt="Typing intro" />
 
 <br/>
+
+<a href="https://www.linkedin.com/in/devXsadik"><img src="https://img.shields.io/badge/LinkedIn-6C3CE0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://sadik-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" /></a>
+<a href="mailto:sadik.work.bd@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/devXsadik"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=devXsadik&style=for-the-badge&color=6C3CE0&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -19,50 +21,38 @@
 
 ---
 
-### 👋 About Me
+<h3 align="center">👋 Hey, I'm Hanjala Habib Sadik</h3>
 
-> Full-Stack Web Developer from **Dhaka, Bangladesh** · CS Undergraduate @ **Daffodil International University (DIU)**  
-> 2+ years building production apps with **MERN**, **Next.js** & **Tailwind CSS**
+<p align="center">
+  <b>Full-Stack Web Developer</b> from Dhaka, Bangladesh<br/>
+  CS Undergraduate @ <b>Daffodil International University (DIU)</b><br/>
+  2+ years crafting production apps with <b>MERN</b>, <b>Next.js</b> & <b>Tailwind CSS</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-6C3CE0?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-00D4FF?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-FF6B9D?style=flat-square" alt="Open to" />
+</p>
 
 | | |
-|:---|:---|
-| 🔭 **Currently** | Building AI-powered surveillance systems |
-| 🌱 **Learning** | System Design, Cloud Native & DevOps |
-| 🎯 **2026 Focus** | Kubernetes, AI/ML & scalable architectures |
-| 🤝 **Open to** | Collaborations, internships & freelance work |
+| :--- | :--- |
+| 🔭 **Now** | Building AI-powered surveillance systems |
+| 🌱 **Learning** | System Design · Cloud Native · DevOps |
+| 🎯 **2026 Goals** | Kubernetes · AI/ML · Scalable architectures |
 | ⚡ **Fun fact** | I enjoy reading docs more than tutorials |
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Metrics
-<sub>Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
-
-<img src="https://metrics.lecoq.io/devXsadik?plugins=base&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FDhaka&config.display=large" width="100%" alt="GitHub metrics overview" />
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true&title_color=00D4FF&icon_color=6C3CE0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&theme=react&langs_count=8&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXsadik&theme=github_dark" alt="Profile details" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="Frontend" />
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis&theme=dark" alt="Backend" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode&theme=dark" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode&theme=dark" alt="Tools" />
 
 </div>
 
@@ -70,14 +60,16 @@
 
 <div align="center">
 
-### 🚀 Featured Projects
+<h3>📊 GitHub Analytics</h3>
 
-| Project | Stack | Links |
-|:--------|:------|:------|
-| **Brain Dump Task Organizer** | TypeScript | [Repo](https://github.com/devXsadik/Brain-Dump-Task-Organizer) |
-| **Ticket Analyzer** | Python | [Live](https://team-binary-diu-ticket-analyzer.vercel.app) · [Repo](https://github.com/devXsadik/TeamBinaryDIU-TicketAnalyzer) |
-| **DataForge Converter** | CSS / Web | [Live](https://dataforge-binary.vercel.app) · [Repo](https://github.com/devXsadik/dataset-file-convertor) |
-| **Portfolio** | JavaScript | [Live](https://sadik-portfolio-ten.vercel.app) · [Repo](https://github.com/devXsadik/sadik-portfolio) |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00D4FF&icon_color=6C3CE0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&langs_count=8&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+<br/>
+<img height="180" src="https://streak-stats.demolab.com?user=devXsadik&hide_border=true&background=0D1117&ring=6C3CE0&fire=FF6B9D&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
+
+<br/><br/>
+
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXsadik&theme=github_dark" alt="Profile details" />
 
 </div>
 
@@ -85,9 +77,25 @@
 
 <div align="center">
 
-### 📈 Activity & Contributions
+<h3>🚀 Featured Projects</h3>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devXsadik&bg_color=0D1117&color=00D4FF&line=6C3CE0&point=FF6B9D&area=true&area_color=6C3CE0&hide_border=true" alt="Contribution graph" />
+| Project | Description | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **Brain Dump** | AI task organizer from raw notes | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Code](https://github.com/devXsadik/Brain-Dump-Task-Organizer) |
+| **Ticket Analyzer** | ICT Fest hackathon — support ticket AI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [Live](https://team-binary-diu-ticket-analyzer.vercel.app) · [Code](https://github.com/devXsadik/TeamBinaryDIU-TicketAnalyzer) |
+| **DataForge** | Dataset file converter for ML pipelines | ![Web](https://img.shields.io/badge/Web-00D4FF?style=flat-square) | [Live](https://dataforge-binary.vercel.app) · [Code](https://github.com/devXsadik/dataset-file-convertor) |
+| **Portfolio** | Personal developer portfolio | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Live](https://sadik-portfolio-ten.vercel.app) · [Code](https://github.com/devXsadik/sadik-portfolio) |
+| **Taskflow** | Task management web app | ![JS](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) | [Live](https://taskflow-nu-red.vercel.app) · [Code](https://github.com/devXsadik/Taskflow) |
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>📈 Contributions</h3>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=devXsadik&bg_color=0D1117&color=00D4FF&line=6C3CE0&point=FF6B9D&area=true&area_color=6C3CE0&hide_border=true" alt="Contribution graph" />
 
 <br/><br/>
 
@@ -99,10 +107,10 @@
 
 <div align="center">
 
-```text
-Thanks for visiting — let's build something great together.
-```
+<sub>Thanks for stopping by — let's build something great together.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=110&section=footer" width="100%" alt="Footer" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3CE0,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
