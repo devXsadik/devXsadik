@@ -62,8 +62,8 @@
 
 <h3>📊 GitHub Analytics</h3>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=devXsadik&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00D4FF&icon_color=6C3CE0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXsadik&layout=compact&hide_border=true&langs_count=8&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXsadik&theme=github_dark" alt="GitHub stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" alt="Top languages" />
 <br/>
 <img height="180" src="https://streak-stats.demolab.com?user=devXsadik&hide_border=true&background=0D1117&ring=6C3CE0&fire=FF6B9D&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
 
@@ -114,3 +114,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C3CE0,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
+
