@@ -35,13 +35,24 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-FF6B9D?style=flat-square" alt="Open to" />
 </p>
 
-| | |
-| :--- | :--- |
-| 🔭 **Now** | Building AI-powered surveillance systems |
-| 🌱 **Learning** | System Design · Cloud Native · DevOps |
-| 🎯 **2026 Goals** | Kubernetes · AI/ML · Scalable architectures |
-| ⚡ **Fun fact** | I enjoy reading docs more than tutorials |
-
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top">🔭 <strong>Now</strong></td>
+    <td valign="top">Building AI-powered surveillance systems</td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">🌱 <strong>Learning</strong></td>
+    <td valign="top">System Design · Cloud Native · DevOps</td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">🎯 <strong>2026 Goals</strong></td>
+    <td valign="top">Kubernetes · AI/ML · Scalable architectures</td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">⚡ <strong>Fun fact</strong></td>
+    <td valign="top">I enjoy reading docs more than tutorials</td>
+  </tr>
+</table>
 ---
 
 <div align="center">
