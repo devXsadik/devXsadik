@@ -65,7 +65,7 @@
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXsadik&theme=github_dark" alt="GitHub stats" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" alt="Top languages" />
 <br/>
-<img height="180" src="https://streak-stats.demolab.com?user=devXsadik&hide_border=true&background=0D1117&ring=6C3CE0&fire=FF6B9D&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=devXsadik&hide_border=true&background=0D1117&ring=6C3CE0&fire=FF6B9D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
 
 <br/><br/>
 
