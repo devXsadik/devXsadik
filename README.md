@@ -25,7 +25,7 @@
 
 <p align="center">
   <b>Full-Stack Web Developer</b> from Dhaka, Bangladesh<br/>
-  CS Undergraduate @ <b>Daffodil International University (DIU)</b><br/>
+  CSE Undergraduate @ <b>Daffodil International University (DIU)</b><br/>
   2+ years crafting production apps with <b>MERN</b>, <b>Next.js</b> & <b>Tailwind CSS</b>
 </p>
 
