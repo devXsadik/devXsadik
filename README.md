@@ -80,7 +80,7 @@
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXsadik&theme=github_dark" alt="GitHub stats" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" alt="Top languages" />
 <br/>
-<img height="180" src="https://img.shields.io/badge/Current%20Streak%20Since-30%20June%202026-6C3CE0?style=for-the-badge&labelColor=0D1117" alt="Current Streak Since: 30 June 2026" />
+<img height="180" src="https://raw.githubusercontent.com/devXsadik/devXsadik/main/assets/custom-streak-card.svg" alt="Current Streak Since: 30 June 2026" />
 
 <br/><br/>
 
