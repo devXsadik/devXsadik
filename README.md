@@ -80,7 +80,7 @@
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXsadik&theme=github_dark" alt="GitHub stats" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" alt="Top languages" />
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devXsadik" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devXsadik&theme=tokyonight&v=2" alt="GitHub Streak" /></a>
 
 <br/><br/>
 
