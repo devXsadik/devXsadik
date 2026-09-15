@@ -72,24 +72,13 @@
 </div>
 
 ---
-
 <div align="center">
 
-<h3>📊 GitHub Analytics</h3>
+<h3>📊 GitHub Stats</h3>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXsadik&theme=github_dark" alt="GitHub stats" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXsadik&theme=github_dark" alt="Top languages" />
-<br/>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=devXsadik&theme=tokyonight&utcOffset=6&cache_seconds=1800&v=20260811" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXsadik&theme=github_dark" alt="Profile details" />
+<img src="https://mystate.devabir.me/api/stats?username=devxsadik&template=pro-dashboard&theme=glass" width="100%" alt="My GitHub Stats" />
 
 </div>
-
 ---
 
 ---
